@@ -1,0 +1,6 @@
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\Trending\bin\Debug\Trending.exe.config
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\Trending\bin\Debug\Trending.exe
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\Trending\bin\Debug\Trending.pdb
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.csprojResolveAssemblyReference.cache
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.exe
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.pdb

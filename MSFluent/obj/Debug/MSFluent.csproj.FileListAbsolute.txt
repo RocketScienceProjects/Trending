@@ -1,0 +1,15 @@
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\MSFluent.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\MSFluent.pdb
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\FluentAssertions.Core.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\FluentAssertions.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\Trending.exe
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\Trending.pdb
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\FluentAssertions.pdb
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\FluentAssertions.xml
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\FluentAssertions.Core.xml
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\obj\Debug\MSFluent.csprojResolveAssemblyReference.cache
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\obj\Debug\MSFluent.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\MSFluent\obj\Debug\MSFluent.pdb

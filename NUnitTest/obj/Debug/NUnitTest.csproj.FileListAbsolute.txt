@@ -1,0 +1,17 @@
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\NUnitTest.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\NUnitTest.pdb
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\FluentAssertions.Core.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\FluentAssertions.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\Trending.exe
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\Trending.pdb
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\FluentAssertions.pdb
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\FluentAssertions.xml
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\FluentAssertions.Core.xml
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\obj\Debug\NUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\obj\Debug\NUnitTest.dll
+C:\Users\niristotle.okram\Downloads\Trending_-_pure_code\Trending\NUnitTest\obj\Debug\NUnitTest.pdb
